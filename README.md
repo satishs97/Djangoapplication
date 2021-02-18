@@ -17,13 +17,18 @@ The next step:
 
 IMAGE AFTER RUN:
 
+![alt text][localhost]
+  
+[localhost]:s1.png "localhost"
+
+
 ![alt text][user]
   
-[user]:s1.png "user"
+[user]:s2.png "user"
 
 ![alt text][activity]
   
-[activity]:s1.png "activity"
+[activity]:s3.png "activity"
 
 
 
