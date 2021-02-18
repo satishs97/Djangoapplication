@@ -27,7 +27,7 @@ SECRET_KEY = '+9--8o-0$#ns1-07uqc8$8tzhl(6-uco9j&64dryy#g3+$vk1d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['full-throttle-labs.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['djangoassignmeant.herokuapp.com', '127.0.0.1:8000/api/user/']
 
 
 # Application definition
@@ -122,7 +122,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
-STATIC_ROOT = os.path.join(BASE_DIR,'staticfiles')
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 STATIC_URL = '/static/'
 
