@@ -2,6 +2,14 @@ STEPS TO USE THIS REPOSITORY:
 -----------------------------
  To use this repository, it can be cloned using -
                      git clone https://github.com/satishs97/djangoapplication.git
+
+Heroku Links
+User: 
+https://full-throttle-labs.herokuapp.com/api/user/
+
+ActivityPeriods:
+https://full-throttle-labs.herokuapp.com/api/activityperiod/
+
  
  install all the packages from requirements.txt: 
  1) cd to the directory where requirements.txt is located.
